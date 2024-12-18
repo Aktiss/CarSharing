@@ -1,0 +1,79 @@
+﻿@using CarSharing.Domain.Enumerations
+@using CarSharing.Domain.Entities
+@model CarForm
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+<h1>Add new car</h1>
+
+<form asp-controller="Car" asp-action="AddCar">
+	<div class="mb-3">
+		<label asp-for="Brand" class="form-label"></label>
+		<input asp-for="Brand" class="form-control" />
+		<span asp-validation-for="Brand" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Model" class="form-label"></label>
+		<input asp-for="Model" class="form-control" />
+		<span asp-validation-for="Model" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Description" class="form-label"></label>
+		<input asp-for="Description" class="form-control" />
+		<span asp-validation-for="Description" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Year" class="form-label"></label>
+		<input asp-for="Year" class="form-control" />
+		<span asp-validation-for="Year" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Seats" class="form-label"></label>
+		<input asp-for="Seats" class="form-control" />
+		<span asp-validation-for="Seats" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Fueltype" class="form-label d-block"></label>
+
+		<div class="form-check form-check-inline ps-0">
+			<input asp-for="Fueltype" class="form-check-inline m-0" type="radio" id="Diesel" value="@FueltypeEnum.Diesel" />
+			<label class="form-check-label" for="Diesel">Diesel</label>
+		</div>
+		<div class="form-check form-check-inline ps-1">
+			<input asp-for="Fueltype" class="form-check-inline m-0" type="radio" id="Petrol" value="@FueltypeEnum.Petrol" />
+			<label class="form-check-label" for="Petrol">Petrol</label>
+		</div>
+		<div class="form-check form-check-inline ps-1">
+			<input asp-for="Fueltype" class="form-check-inline m-0" type="radio" id="CNG" value="@FueltypeEnum.CNG" />
+			<label class="form-check-label" for="CNG">CNG</label>
+		</div>
+	</div>
+	<div class="mb-3">
+		<label asp-for="Transmission" class="form-label d-block"></label>
+
+		<div class="form-check form-check-inline ps-0">
+			<input asp-for="Transmission" class="form-check-inline m-0" type="radio" id="Automatic" value="@TransmissionEnum.Automatic" />
+			<label class="form-check-label" for="Automatic">Automatic</label>
+		</div>
+		<div class="form-check form-check-inline ps-0">
+			<input asp-for="Transmission" class="form-check-inline m-0" type="radio" id="Manual" value="@TransmissionEnum.Manual" />
+			<label class="form-check-label" for="Manual">Manual</label>
+		</div>
+	</div>
+	<div class="mb-3">
+		<label asp-for="ImageURL" class="form-label"></label>
+		<input asp-for="ImageURL" class="form-control" />
+		<span asp-validation-for="ImageURL" class="text-danger"></span>
+	</div>
+	<div class="mb-3">
+		<button class="btn btn-primary">Add</button>
+	</div>
+</form>		
+
+@section Scripts {
+	@await Html.PartialAsync("_ValidationScriptsPartial.cshtml")
+}

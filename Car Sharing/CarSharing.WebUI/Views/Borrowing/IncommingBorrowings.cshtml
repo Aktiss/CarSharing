@@ -1,0 +1,76 @@
+﻿@using CarSharing.Domain.Entities
+@using CarSharing.Domain.Enumerations
+@model IEnumerable<Borrowing>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h1>Pending borrowings for my cars</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Brand</th>
+            <th>Fuel type</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Accept</th>
+            <th>Reject</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Borrowing borrowing in Model)
+        {
+            string status;
+            if (borrowing.Status == StatusEnum.Pending)
+            {
+                status = "alert-warning";
+            }
+            else if (borrowing.Status == StatusEnum.Accepted)
+            {
+                status = "alert-success";
+            }
+            else
+            {
+                status = "alert-danger";
+            }
+
+            string type = "Unknown";
+            if (borrowing.Car.Fueltype == FueltypeEnum.Petrol)
+            {
+                type = "Petrol";
+            }
+            else if (borrowing.Car.Fueltype == FueltypeEnum.Diesel)
+            {
+                type = "Diesel";
+            }
+            else if (borrowing.Car.Fueltype == FueltypeEnum.CNG)
+            {
+                type = "CNG";
+            }
+
+            <tr class=@status>
+                <td>@borrowing.Car.Model</td>
+                <td>@type</td>
+                <td>@borrowing.StartDateTime</td>
+                <td>@borrowing.EndDateTime</td>
+                @if(borrowing.StartDateTime > DateTime.Now)
+                {
+                    <td>
+                        <form asp-controller="Borrowing" asp-action="Accept" method="post">
+                            <input type="hidden" name="borrowingId" value="@borrowing.Id" />
+                            <button type="submit" class="btn btn-success">Accept</button>
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-controller="Borrowing" asp-action="Reject" method="post">
+                            <input type="hidden" name="borrowingId" value="@borrowing.Id" />
+                            <button type="submit" class="btn btn-danger">Reject</button>
+                        </form>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

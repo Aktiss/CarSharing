@@ -1,0 +1,30 @@
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Application.deps.json
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Application.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Application.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.AssemblyInfo.cs
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarShari.4182B310.Up2Date
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\refint\CarSharing.Application.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Application\obj\Debug\net8.0\ref\CarSharing.Application.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Application.deps.json
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Application.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Application.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\bin\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.AssemblyInfo.cs
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarShari.4182B310.Up2Date
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\refint\CarSharing.Application.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\CarSharing.Application.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Application\obj\Debug\net8.0\ref\CarSharing.Application.dll

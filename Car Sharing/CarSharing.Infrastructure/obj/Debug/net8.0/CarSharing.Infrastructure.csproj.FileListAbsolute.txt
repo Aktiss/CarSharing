@@ -1,0 +1,34 @@
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Infrastructure.deps.json
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Infrastructure.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Application.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Application.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.AssemblyInfo.cs
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarShari.8DF2B16C.Up2Date
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\refint\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\ref\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Infrastructure.deps.json
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Infrastructure.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Application.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Application.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\bin\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.AssemblyInfo.cs
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarShari.8DF2B16C.Up2Date
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\refint\CarSharing.Infrastructure.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\CarSharing.Infrastructure.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Infrastructure\obj\Debug\net8.0\ref\CarSharing.Infrastructure.dll

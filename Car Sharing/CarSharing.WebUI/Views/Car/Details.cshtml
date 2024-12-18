@@ -1,0 +1,106 @@
+﻿@using CarSharing.Domain.Enumerations
+@model DetailsViewModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    string ImgUrl = Model.Car.ImageURL;
+
+    string type;
+    if (Model.Car.Fueltype == FueltypeEnum.Petrol)
+    {
+        type = "Petrol";
+    }
+    else if (Model.Car.Fueltype == FueltypeEnum.Diesel)
+    {
+        type = "Diesel";
+    }
+    else if (Model.Car.Fueltype == FueltypeEnum.CNG)
+    {
+        type = "CNG";
+    } else
+    {
+        type = "Unknown";
+    }
+
+    string transmission ;
+    if (Model.Car.Transmission == TransmissionEnum.Automatic)
+    {
+        transmission = "Automatic";
+    }
+    else if (Model.Car.Transmission == TransmissionEnum.Manual)
+    {
+        transmission = "Manual";
+    }
+    else 
+    {
+        transmission = "Unknown";
+    }
+}
+
+<h1>Car Sharing</h1>
+<h3>Details</h3>
+
+<div>
+    <img src="@Model.Car.ImageURL" class="CarImage"/>
+    <dl class="row">
+        <dt class="col-sm-2">
+            ID
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Car.Id
+        </dd>
+        <dt class="col-sm-2">
+            Brand
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Car.Brand
+        </dd>
+        <dt class="col-sm-2">
+            Model
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Car.Model
+        </dd>
+        <dt class="col-sm-2">
+            Description
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Car.Description
+        </dd>
+        <dt class="col-sm-2">
+            Year
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Car.Year
+        </dd>
+        <dt class="col-sm-2">
+            Seats
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Car.Seats
+        </dd>
+        <dt class="col-sm-2">
+            Fuel type
+        </dt>
+        <dd class="col-sm-10">
+            @type
+        </dd>
+        <dt class="col-sm-2">
+            Transmission
+        </dt>
+        <dd class="col-sm-10">
+            @transmission
+        </dd>
+        <dt class="col-sm-2">
+            Owner name
+        </dt>
+        <dd class="col-sm-10">
+            Not yet
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-controller="Borrowing" asp-action="AddBorrowing" asp-route-carId="@Model.Car.Id">Borrow this car</a>
+</div>

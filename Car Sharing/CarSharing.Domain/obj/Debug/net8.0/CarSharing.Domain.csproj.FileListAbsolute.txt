@@ -1,0 +1,22 @@
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\bin\Debug\net8.0\CarSharing.Domain.deps.json
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\bin\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\bin\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.AssemblyInfo.cs
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\refint\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\Herexamen_2023-2024\Exercices\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\ref\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\bin\Debug\net8.0\CarSharing.Domain.deps.json
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\bin\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\bin\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.AssemblyInfo.cs
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\refint\CarSharing.Domain.dll
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\CarSharing.Domain.pdb
+C:\Users\ilias\Desktop\BAD-MVC CarSharing\Car Sharing\CarSharing.Domain\obj\Debug\net8.0\ref\CarSharing.Domain.dll

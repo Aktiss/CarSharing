@@ -1,0 +1,37 @@
+﻿@model BorrowingForm
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    int carid = (int)ViewData["carId"];
+    
+}
+
+<h1>Borrow Car</h1>
+
+<form asp-controller="Borrowing" asp-action="AddBorrowing">
+    <input type="hidden" asp-for="CarId" value="@carid" />
+    <div class="mb-3">
+        <label asp-for="StartDateTime" class="form-label"></label>
+        <input asp-for="StartDateTime" class="form-control" type="datetime-local" />
+        <span asp-validation-for="StartDateTime" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="EndDateTime" class="form-label"></label>
+        <input asp-for="EndDateTime" class="form-control" type="datetime-local" />
+        <span asp-validation-for="EndDateTime" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Message" class="form-label"></label>
+        <input asp-for="Message" class="form-control" />
+        <span asp-validation-for="Message" class="text-danger"></span>
+    </div>
+    <div class="bm-3">
+        <button class="btn btn-primary">Add</button>
+    </div>
+</form>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial.cshtml")
+}

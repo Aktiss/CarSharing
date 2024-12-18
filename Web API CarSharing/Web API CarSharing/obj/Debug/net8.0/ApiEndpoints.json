@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "Web_API_CarSharing.Controllers.CarSharingController",
+    "Method": "Login",
+    "RelativePath": "api/CarSharing/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Web_API_CarSharing.Model.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_CarSharing.Controllers.CarSharingController",
+    "Method": "Register",
+    "RelativePath": "api/CarSharing/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Web_API_CarSharing.Model.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_CarSharing.Controllers.CarSharingController",
+    "Method": "RegisterAdmin",
+    "RelativePath": "api/CarSharing/register-admin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Web_API_CarSharing.Model.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_CarSharing.Controllers.CarSharingController",
+    "Method": "GetAllCars",
+    "RelativePath": "cars",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Web_API_CarSharing.Dto_s.CarDto, Web API CarSharing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

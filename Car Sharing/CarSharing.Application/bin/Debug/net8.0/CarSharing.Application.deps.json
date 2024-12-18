@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CarSharing.Application/1.0.0": {
+        "dependencies": {
+          "CarSharing.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CarSharing.Application.dll": {}
+        }
+      },
+      "CarSharing.Domain/1.0.0": {
+        "runtime": {
+          "CarSharing.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarSharing.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarSharing.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
